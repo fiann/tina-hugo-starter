@@ -2,3 +2,4 @@ node_modules
 .yarn
 .env
 resources/_gen/
+public
